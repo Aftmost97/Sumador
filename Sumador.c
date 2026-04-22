@@ -6,6 +6,7 @@ int main(void)
 {
     int num1, num2, suma;
 
+    p("bienvenido");
     p("Ingrese un valor: ");
     s("%d", &num1);
     p("Ingrese otro valor: ");
